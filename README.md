@@ -1,6 +1,6 @@
 # pruneOldOpenstackImages
 
-pruneOldOpenstackImages is tool to delete duplicate OpenStack images.
+pruneOldOpenstackImages is a tool to delete duplicate OpenStack images.
 
 ## Use
 
