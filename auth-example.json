@@ -1,0 +1,7 @@
+{
+    "endpoint": "https://OS-URL",
+    "username": "{YOUR USERNAME}",
+    "password": "{YOUR PASSWORD}",
+    "tenantName": "{YOUR TENANT NAME}",
+    "domainName": "{YOUR DOMAIN NAME}"
+}
